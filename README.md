@@ -1,4 +1,4 @@
-// # [![Avinash Kumar header](https://raw.githubusercontent.com/avinashkunwar/avinashkunwar/main/Avi_Pic.jpg)](https://avinashkunwar.com)
+/* # [![Avinash Kumar header](https://raw.githubusercontent.com/avinashkunwar/avinashkunwar/main/Avi_Pic.jpg)](https://avinashkunwar.com) */
 
 <p align='center'>
 <a href="https://twitter.com/avinashkunwar"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
