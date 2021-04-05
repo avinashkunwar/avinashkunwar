@@ -1,9 +1,5 @@
 # [![Avinash Kumar header](https://raw.githubusercontent.com/avinashkunwar/avinashkunwar/main/Avi_Pic.jpg)](https://avinashkunwar.com)
 
-<p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
-</p>
-
 <p align='center'>
 <a href="https://twitter.com/avinashkunwar"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/avinashkunwar"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
