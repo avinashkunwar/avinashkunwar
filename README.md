@@ -1,3 +1,4 @@
+# [![Avinash Kumar header](https://raw.githubusercontent.com/avinashkunwar/avinashkunwar/main/icon/Avi_Pic.jpg)](https://avinashkunwar.com)
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
 <h3 align="center">I'm Avinash Kumar, a technical enthusiast who does DevOps, automation, CI/CD. Passionate to contribute open-source projects and make cool products.</h3>
 
