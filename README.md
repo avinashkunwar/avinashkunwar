@@ -1,5 +1,15 @@
 # [![Avinash Kumar header](https://raw.githubusercontent.com/avinashkunwar/avinashkunwar/main/Avi_Pic.jpg)](https://avinashkunwar.com)
 
+<p>
+  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
+</p>
+
+<p align='center'>
+<a href="https://twitter.com/avinashkunwar"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/avinashkunwar"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/avinashkunwar/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
 <h3 align="center">I'm Avinash Kumar, a technical enthusiast who does DevOps, automation, CI/CD. Passionate to contribute open-source projects and make cool products.</h3>
 
