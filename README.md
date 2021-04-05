@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
 <h3 align="center">I'm Avinash Kumar, a technical enthusiast who does DevOps, automation, CI/CD. Passionate to contribute open-source projects and make cool products.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashkunwar" alt="avinashkunwar" /> </p>
 
 - 🔭 I’m currently working on [FaceMask- Access Control](https://github.com/AkhilGKrishnan/Face-Mask-Detector)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Python/Terraform**
 
-- 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
+- 👨‍💻 All of my projects are available at [https://avinashkunwar.com]
 
-- 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me](https://akhilgkrishnan.me)
-
-- 📫 How to reach me **info@akhilgkrishnan.me**
+- 📫 How to reach me **www.linkedin.com/in/avinashkunwar**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
